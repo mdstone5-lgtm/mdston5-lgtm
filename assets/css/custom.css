@@ -1,0 +1,9 @@
+/* Custom ocean highlight colors */
+.gs-section-01 { background: #F0FAFD; padding: 15px; border-radius: 5px; }
+.gs-section-02 { background: #EFF7FA; padding: 15px; border-radius: 5px; }
+.gs-section-03 { background: #E9F4F9; padding: 15px; border-radius: 5px; }
+
+table {
+    border: 2px solid #1F6F8B;
+    border-radius: 4px;
+}
