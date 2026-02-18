@@ -9,7 +9,7 @@ linkedin_username: ""
 
 # URL settings
 baseurl: ""
-url: "https://<YOUR_GITHUB_USERNAME>.github.io"
+url: "https://mdstone5-lgtm.github.io"
 
 # Color palette — soft ocean theme
 navbar-col: "#E6F2F5"
